@@ -1,0 +1,21 @@
+{
+  "name": "fp-in-js-examples",
+  "authors": [
+    "Erik Post <erik@shinsetsu.nl>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ramda": "^0.21.0"
+  }
+}
