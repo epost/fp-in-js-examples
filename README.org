@@ -1,0 +1,6 @@
+#+title:FP in JS examples
+
+* A few useful shell commands
+
+- ~bower install --save d3~
+- ~browserify index.js > bundle.js~
